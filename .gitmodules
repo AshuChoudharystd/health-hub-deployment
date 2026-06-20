@@ -1,0 +1,6 @@
+[submodule "HealthAppLiveBackend"]
+	path = HealthAppLiveBackend
+	url = https://github.com/AshuChoudharystd/HealthAppLiveBackend.git
+[submodule "health-connect-hub"]
+	path = health-connect-hub
+	url = https://github.com/AshuChoudharystd/health-connect-hub.git
